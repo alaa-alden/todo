@@ -1,4 +1,5 @@
 import App from './app' // smart
 import Router from './router'
-
-export { App, Router }
+import Footer from './footer'
+import Header from './header'
+export { App, Router,Footer,Header }
